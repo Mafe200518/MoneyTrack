@@ -35,9 +35,3 @@ El desarrollo del proyecto se realiza bajo la metodología ágil Scrum, mediante
 * /database
 ## Autores
 * María Fernanda Castaño Campos 
-
----
-
-## 📎 Repositorio
-
-Este repositorio contiene el desarrollo del proyecto académico de ingeniería de software.
